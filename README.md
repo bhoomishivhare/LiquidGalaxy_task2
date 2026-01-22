@@ -1,5 +1,5 @@
-# LiquidGalaxy_task2
-Liquid Galaxy Task 2 – Flutter LG Controller App
+
+ Flutter LG Controller App
 
 Overview
 This project is a Flutter-based controller application developed for Liquid Galaxy Task 2.
